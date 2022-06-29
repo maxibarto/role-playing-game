@@ -17,3 +17,6 @@
 # The .reduce() method
 # Arrow functions
 # The .setTimeOut() method
+
+<!-- Part 4 -->
+# Classes
